@@ -23,3 +23,11 @@
 ## Images
 
 > All images used on this website are from the Lethal Company Fandom site: https://lethal-company.fandom.com/wiki/Lethal_Company_Wiki
+
+## Text
+
+> Content written by myself with a bit of help by ChatGPT for phrasing and spellchecking
+
+> Tips written all by myself
+
+> Some Data was taken from the Lethal Company Fandom site: https://lethal-company.fandom.com/wiki/Lethal_Company_Wiki
